@@ -6,8 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "tauri-updater-lab",
-    "version": "0.4.1"
+    "productName": "tauri-updater-lab"
   },
   "tauri": {
     "allowlist": {
